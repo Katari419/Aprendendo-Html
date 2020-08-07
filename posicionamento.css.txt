@@ -1,0 +1,57 @@
+body {
+font-family: Cambria, Georgia, sans-serif;
+font-size: 95%;
+color: black;
+background-color: whitel;
+margin: 1em;
+padding: 0;
+}
+/* Isso é um comentário */
+p {
+line-height: 1.5em;
+}
+h1 {
+color: yellow;
+background-color: #600;
+font-size: 2,5em;
+margin: 0;
+margin-bottom: 0.5em;
+padding: 0.25em;
+font-style: oblique;
+text-align: center;
+letter-spacing: 0.5em;
+border-bottom-style: solid;
+border-bottom-width: 0.5em;
+border-bottom-color: #c00;
+}
+h2 {
+color: white;
+background-color: #105;
+font-size: 1.5em;
+margin: 0;
+padding: 0.1em;
+padding-left: 1em;
+}
+h3 {
+color: #3cb98f;
+font-size: 1.50em;
+}
+img {
+border-style: dashed;
+border-width: 3px;
+border-color: #0080af;
+}
+a {
+text-decoration: none;
+}
+strong {
+font-style: normal;
+text-transform: uppercase;
+}
+li {
+color: #3300cc;
+font-style: italic;
+}
+table {
+background-color: #ccc;
+}

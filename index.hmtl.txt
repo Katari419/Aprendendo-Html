@@ -1,0 +1,92 @@
+<!DOCTYPE html> 
+<html lang="pt-br"> 
+<head>
+<title> ALUNA: YASMIM KATARI DA CRUZ SANTANA - 3°ANO A </title>
+ </head>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="posicionamento.css"/>
+<title>Minha primeira página web</title>
+</head>
+<body>
+<head>
+<style>
+h2 {
+    background-color: #93B874;
+}
+h1 {
+    background-color: #20b2aa;
+}
+p {
+    background-color: #FFFFFF);
+}
+</style>
+</head>
+<body>
+<h1>Cabeçalho com cor de fundo verde</h1>
+<p>Parágrafo com cor de fundo branca</p>
+</body>
+<h1>Minha primeira página web</h1>
+<h2>O que é isso?</h2>
+<p>Uma página simples feita usando HTML. <strong>Só pra mostrar pra 
+todo mundo o que eu aprendi.</strong> Agora eu sei que HTML é simples 
+e fácil. Qualquer um pode aprender.</p>
+<h2>Pra quê isso?</h2>
+<ul>
+<li>Pra aprender HTML</li>
+<li>Pra exibir
+<ol>
+<li>Pro meu chefe</li>
+<li>Pros meus amigos</li>
+<li>Pro meu gato</li>
+<li>Pro pequeno pato falante na minha cabeça</li>
+</ol>
+</li>
+<li>Porque eu me apaixonei pelo meu computador e quero dar a ele um 
+pouco de amor HTML.</li>
+</ul>
+<h2>Onde encontrar esse tutorial</h2>
+<p><a href="http://www.htmldog.com"><img 
+src="http://www.htmldog.com/images/logo.gif" width="157" height="70" 
+alt="HTML Dog logo" /></a></p>
+<h3>Uma tabela qualquer</h3>
+<table border="1">
+<tr>
+<td>Linha 1, célula 1</td>
+<td>Linha 1, célula 2</td>
+<td>Linha 1, célula 3</td>
+</tr>
+<tr>
+<td>Linha 2, célula 1</td>
+<td>Linha 2, célula 2</td>
+<td>Linha 2, célula 3</td>
+</tr>
+<tr>
+<td>Linha 3, célula 1</td>
+<td>Linha 3, célula 2</td>
+<td>Linha 3, célula 3</td>
+</tr>
+<tr>
+<td>Linha 4, célula 1</td>
+<td>Linha 4, célula 2</td>
+<td>Linha 4, célula 3</td>
+</tr>
+</table>
+<h3>Um formulário qualquer</h3>
+<p><strong>Nota:</strong> Parece o máximo, mas não faz absolutamente 
+nada.</p>
+<form action="algumscript.php" method="post"> <!-- Esse arquivo em php 
+não vai fazer nadapq não eiste ok? -->
+<p>Nome:</p>
+<p><input type="text" name="nome" value="Seu nome" /></p>
+<p>Comentários: </p>
+<p><textarea rows="10" cols="20" name="comentarios">Seus 
+comentários</textarea></p>
+<p>Você é:</p>
+<p><input type="radio" name="vocee" value="homem" />Homem</p>
+<p><input type="radio" name="vocee" value="mulher" />Mulher</p>
+<p><input type="submit" value="Enviar"/></p>
+<p><input type="reset" value="Limpar"/></p>
+</form>
+</body>
+</html>
